@@ -1,32 +1,11 @@
 {
-  "posts": [
-    {
-      "day": "monday",
-      "content": "AIとスマホだけで収益化する仕組みを作った。\n\nやったこと：\n・Claude APIで毎日コンテンツ生成\n・GitHub Actionsで自動投稿\n・noteとGumroadで回収\n\n寝てる間に動く仕組みの詳細→[noteURL]"
-    },
-    {
-      "day": "tuesday", 
-      "content": "スマホ1台で月収を作る人と作れない人の差。\n\n作れない人：ツールを学ぶ\n作れる人：仕組みを作る\n\n違いは「自動化」があるかどうかだけ。\n\n具体的な手順→[GumroadURL]"
-    },
-    {
-      "day": "wednesday",
-      "content": "今すぐスマホで使えるAIツール3選\n\n① Claude：構造的な文章生成\n② NotebookLM：情報整理・ラジオ化\n③ Aqua Voice：音声→テキスト変換\n\nこの3つで1日のコンテンツ生産が完結する。\n\n使い方まとめ→[noteURL]"
-    },
-    {
-      "day": "thursday",
-      "content": "AIで副業してる人に聞きたい。\n\n自動化できてる部分はどこですか？\n\n自分は投稿・記事生成・売上集計を自動化した。\nまだ手動なのは商品企画だけ。\n\nコメントで教えてください👇"
-    },
-    {
-      "day": "friday",
-      "content": "【告知】スマホだけでAI収益化する完全手順をまとめました。\n\n✅ GitHub Actionsで自動投稿\n✅ Claude APIでコンテンツ生成\n✅ noteとGumroadで自動回収\n\n初月から動く仕組みの全容→[GumroadURL]"
-    },
-    {
-      "day": "saturday",
-      "content": "今週の進捗まとめ。\n\nX投稿：自動化完了\nnote記事：2本公開\nGumroad：バンドル商品追加\n\n仕組みが動き始めると時間が増える。\nその時間でまた仕組みを作る。これが正解。"
-    },
-    {
-      "day": "sunday",
-      "content": "来週の仕込み完了。\n\nAIに来週分の投稿を全部作らせた。\nスマホで確認して予約完了。\n\n日曜の夜2時間で1週間分が終わる。\nこれがスマホ収益化の現実。\n\n仕組みの作り方→[noteURL]"
-    }
-  ]
+ "posts":[
+  {"day":"monday","content":"AIツールはスマホでも使える。ChatGPT＋Canvaで副収入を作る人が増えている。まず1つ触ってみるだけで世界が変わる。"},
+  {"day":"tuesday","content":"副業はスキルより仕組み。投稿→記事→商品。この流れを作ると収益は安定する。"},
+  {"day":"wednesday","content":"AI副業で一番大事なのはツールを増やさないこと。1つのツールを使い倒す人が結果を出す。"},
+  {"day":"thursday","content":"スマホだけでもAI副業はできる。ChatGPTで文章、Canvaで画像。まずはこの2つで十分。"},
+  {"day":"friday","content":"副業の最初の1000円が一番難しい。でも一度できれば次は簡単になる。"},
+  {"day":"saturday","content":"AIは魔法じゃない。でも作業時間を半分にすることはできる。まず1つAIに任せてみる。"},
+  {"day":"sunday","content":"AI副業は完璧な準備より行動。小さく毎日投稿していくことが一番の近道。"}
+ ]
 }
